@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/" />
+  <Project Path="HolaMundo/HolaMundo.csproj" />
+  <Project Path="MathGame/MathGame.csproj" Id="68ef2fa3-1efb-433a-8e6d-57b38100b863" />
+</Solution>
